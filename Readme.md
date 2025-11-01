@@ -22,25 +22,25 @@ ROHAN ANOOP
 
 ## 🏗️ Project Structure
 
-PLMS/
-├── .vscode/
-│ └── settings.json
-│
-├── lib/
-│ └── mysql-connector-j-9.4.0.jar
-│
-├── .gitignore
-├── config.properties
-├── Admin.java
-├── DatabaseConnection.java
-├── Main.java
-├── MainUI.java
-├── ParkingFunctions.java
-├── ParkingManager.java
-├── ParkingRecord.java
-├── ParkingSlot.java
-├── Vehicle.java
-└── Readme.md
+PLMS/  
+├── .vscode/  
+│ └── settings.json  
+│    
+├── lib/  
+│ └── mysql-connector-j-9.4.0.jar    
+│  
+├── .gitignore  
+├── config.properties  
+├── Admin.java  
+├── DatabaseConnection.java  
+├── Main.java  
+├── MainUI.java  
+├── ParkingFunctions.java  
+├── ParkingManager.java  
+├── ParkingRecord.java  
+├── ParkingSlot.java   
+├── Vehicle.java  
+└── Readme.md  
 
 📦 Requirements
 
