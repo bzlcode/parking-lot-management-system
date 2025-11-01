@@ -6,10 +6,10 @@ All data is stored in a connected MySQL database, ensuring accurate and reliable
 
 ## Course Project done by
 
-BASIL PETER
-RAMKIRAN R
-RISHABH P.S.
-ROHAN ANOOP
+BASIL PETER  
+RAMKIRAN R  
+RISHABH P.S.  
+ROHAN ANOOP  
 
 ## 📋 Features
 
