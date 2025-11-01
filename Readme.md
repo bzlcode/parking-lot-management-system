@@ -4,12 +4,16 @@ The **Parking Lot Management System** is a Java-based project developed to strea
 It allows administrators to manage parking slots, record vehicle entries and exits, and monitor parking activity efficiently.  
 All data is stored in a connected MySQL database, ensuring accurate and reliable record-keeping and fee calculation.
 
+```
+
 ## Course Project done by
 
 BASIL PETER  
 RAMKIRAN R  
 RISHABH P.S.  
 ROHAN ANOOP  
+
+```
 
 ## 📋 Features
 
@@ -19,6 +23,8 @@ ROHAN ANOOP
 - 💾 **Database Integration** — All data stored and fetched from a MySQL database.  
 - 🧩 **Modular Code Structure** — Separated logic for database, UI, and main operations.  
 - ⚡ **Responsive UI** — Simple and fast interface using Java Swing (or JavaFX, if used).
+
+```
 
 ## 🏗️ Project Structure
 
@@ -42,12 +48,16 @@ PLMS/
 ├── Vehicle.java  
 └── Readme.md  
 
+```
+
 📦 Requirements
 
 Java JDK 17+
 MySQL 8.0+
 MySQL Connector/J
 (Optional) VS Code or IntelliJ IDEA
+
+```
 
 🪄 1. Clone the Repository
 git clone <https://github.com/bzl115/paring-lot-management-system.git>
@@ -116,6 +126,8 @@ ADMIN_ID=your_admin_here
 ADMIN_PASS=your_admin_password_here  
 
 🧩 6. Run the Application
+
+```
 
 Now you can compile and run the project:
 
