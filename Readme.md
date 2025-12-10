@@ -50,7 +50,7 @@ MySQL Connector/J
 (Optional) VS Code or IntelliJ IDEA
 
 🪄 1. Clone the Repository
-git clone <https://github.com/bzl115/paring-lot-management-system.git>
+git clone <https://github.com/bzcode/paring-lot-management-system.git>
 cd paring-lot-management-system
 
 ⚙️ 2. Install MySQL and Create the Database
