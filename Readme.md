@@ -22,6 +22,7 @@ ROHAN ANOOP
 
 ## 🏗️ Project Structure
 
+```text
 PLMS/
 │
 ├── lib/
@@ -39,6 +40,8 @@ PLMS/
 ├── ParkingSlot.java
 ├── Vehicle.java
 └── Readme.md
+
+```
 
 📦 Requirements
 
