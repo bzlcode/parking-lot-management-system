@@ -23,8 +23,6 @@ ROHAN ANOOP
 ## 🏗️ Project Structure
 
 PLMS/
-├── .vscode/
-│ └── settings.json
 │
 ├── lib/
 │ └── mysql-connector-j-9.4.0.jar
